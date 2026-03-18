@@ -21,7 +21,7 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-2" onClick={() => setMenuOpen(false)}>
           <div className="w-12 h-12 rounded-full overflow-hidden">
             <img
-              src="/src/images/lacos.logo.jpeg"
+              src="/images/lacos.logo.jpeg"
               alt="Logo"
               className="w-full h-full object-cover"
             />
